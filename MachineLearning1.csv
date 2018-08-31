@@ -1,0 +1,51 @@
+Device category,Country,Browser,Gender
+mobile,France,Chrome,female
+mobile,France,Chrome,male
+desktop,France,Chrome,female
+desktop,France,Chrome,male
+mobile,France,Samsung Internet,female
+mobile,France,Safari,female
+desktop,France,Firefox,female
+tablet,France,Chrome,female
+desktop,France,Firefox,male
+desktop,France,Internet Explorer,female
+mobile,France,Safari,male
+mobile,France,Samsung Internet,male
+desktop,France,Edge,female
+tablet,France,Safari,female
+desktop,France,Internet Explorer,male
+tablet,France,Chrome,male
+mobile,Belgium,Chrome,female
+desktop,France,Edge,male
+desktop,France,Safari,female
+mobile,Algeria,Chrome,female
+mobile,Canada,Chrome,female
+mobile,Morocco,Chrome,female
+tablet,France,Safari,male
+tablet,France,Samsung Internet,female
+mobile,Algeria,Chrome,male
+mobile,France,Android Webview,female
+desktop,France,Safari,male
+mobile,Morocco,Chrome,male
+mobile,France,Firefox,female
+mobile,Réunion,Chrome,female
+mobile,Tunisia,Chrome,female
+mobile,Belgium,Chrome,male
+mobile,Belgium,Samsung Internet,female
+mobile,Canada,Chrome,male
+mobile,Switzerland,Chrome,female
+desktop,Canada,Chrome,female
+mobile,France,Firefox,male
+mobile,France,Android Browser,female
+desktop,Belgium,Chrome,female
+mobile,Tunisia,Chrome,male
+mobile,Canada,Safari,female
+desktop,Belgium,Chrome,male
+desktop,Algeria,Chrome,male
+desktop,Tunisia,Chrome,female
+mobile,Belgium,Safari,female
+mobile,Canada,Samsung Internet,female
+desktop,Canada,Chrome,male
+tablet,France,Android Browser,female
+tablet,France,Internet Explorer,female
+desktop,Algeria,Chrome,female
