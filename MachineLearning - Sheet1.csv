@@ -1,0 +1,51 @@
+Device category,Country,Browser,Users
+mobile,France,Chrome,13280
+desktop,France,Chrome,7912
+tablet,France,Chrome,1422
+mobile,Belgium,Chrome,444
+mobile,Algeria,Chrome,424
+mobile,Morocco,Chrome,342
+mobile,Canada,Chrome,315
+desktop,Canada,Chrome,206
+mobile,Tunisia,Chrome,195
+desktop,Belgium,Chrome,187
+desktop,United States,Chrome,170
+desktop,Algeria,Chrome,156
+mobile,Réunion,Chrome,154
+mobile,Switzerland,Chrome,136
+desktop,Morocco,Chrome,117
+desktop,Tunisia,Chrome,101
+desktop,Switzerland,Chrome,79
+mobile,Martinique,Chrome,64
+mobile,Cameroon,Chrome,59
+mobile,United States,Chrome,58
+desktop,Germany,Chrome,47
+tablet,Canada,Chrome,47
+mobile,Côte d’Ivoire,Chrome,45
+tablet,Belgium,Chrome,45
+desktop,Philippines,Chrome,43
+mobile,Bulgaria,Chrome,42
+mobile,Guadeloupe,Chrome,42
+mobile,Senegal,Chrome,42
+mobile,Spain,Chrome,42
+desktop,United Kingdom,Chrome,40
+desktop,Réunion,Chrome,36
+desktop,Spain,Chrome,35
+mobile,Germany,Chrome,33
+desktop,Côte d’Ivoire,Chrome,31
+mobile,United Kingdom,Chrome,29
+desktop,(not set),Chrome,28
+mobile,Lebanon,Chrome,26
+mobile,Mauritius,Chrome,26
+desktop,Ireland,Chrome,25
+desktop,Martinique,Chrome,25
+mobile,Italy,Chrome,25
+desktop,Guadeloupe,Chrome,21
+mobile,French Guiana,Chrome,20
+desktop,Madagascar,Chrome,19
+desktop,Senegal,Chrome,19
+mobile,Haiti,Chrome,19
+mobile,Benin,Chrome,18
+desktop,Peru,Chrome,17
+desktop,Brazil,Chrome,16
+desktop,New Caledonia,Chrome,15
